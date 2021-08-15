@@ -10,7 +10,7 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Satya",
-  logo_name: "satya.()",
+  logo_name: "sn.()",
   nickname: "snv",
   full_name: "Satya Verma",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
