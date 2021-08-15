@@ -60,5 +60,5 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 
 # References
 
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
+Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio and https://github.com/harikanani/harikanani.github.io
 Illustrations: https://undraw.co/
