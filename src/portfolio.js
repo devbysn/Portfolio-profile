@@ -14,16 +14,17 @@ const greeting = {
   nickname: "snv",
   full_name: "Satya Verma",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
-  resumeLink: "/",
+  resumeLink:
+    "https://drive.google.com/file/d/1HSlmHBDFmbgqAfMCZq2PdTnldfnd2zPZ/view",
   mail: "mailto:devbysn@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/devbysn",
-  linkedin: "/",
+  linkedin: "https://www.linkedin.com/in/satya-verma-2a9308162/",
   gmail: "devbysn@gmail.com",
-  gitlab: "/",
+  // gitlab: "/",
   facebook: "/",
   twitter: "https://twitter.com/devbysn",
   instagram: "https://www.instagram.com/im_snv",
@@ -64,13 +65,13 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#7377AD",
-          },
-        },
+        // {
+        //   skillName: "PHP",
+        //   fontAwesomeClassname: "simple-icons:php",
+        //   style: {
+        //     color: "#7377AD",
+        //   },
+        // },
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -106,34 +107,34 @@ const skills = {
         //     color: "#DE33A6",
         //   },
         // },
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
-          style: {
-            color: "#f89820",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
+        // {
+        //   skillName: "Android",
+        //   fontAwesomeClassname: "simple-icons:android",
+        //   style: {
+        //     color: "#3DDC84",
+        //   },
+        // },
+        // {
+        //   skillName: "Java",
+        //   fontAwesomeClassname: "simple-icons:java",
+        //   style: {
+        //     color: "#f89820",
+        //   },
+        // },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
+        // {
+        //   skillName: "Dart",
+        //   fontAwesomeClassname: "simple-icons:dart",
+        //   style: {
+        //     color: "#29B0EE",
+        //   },
+        // },
         // {
         //   skillName: "Visual Basic",
         //   fontAwesomeClassname: "simple-icons:dot-net",
@@ -142,8 +143,8 @@ const skills = {
         //   },
         // },
         {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
+          skillName: "postgresSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
           style: {
             color: "#4479A1",
           },
@@ -155,20 +156,20 @@ const skills = {
             color: "#0865A6",
           },
         },
-        {
-          skillName: "Wordpress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#207297",
-          },
-        },
-        {
-          skillName: "Apache",
-          fontAwesomeClassname: "simple-icons:apache",
-          style: {
-            color: "#CA1A22",
-          },
-        },
+        // {
+        //   skillName: "Wordpress",
+        //   fontAwesomeClassname: "simple-icons:wordpress",
+        //   style: {
+        //     color: "#207297",
+        //   },
+        // },
+        // {
+        //   skillName: "Apache",
+        //   fontAwesomeClassname: "simple-icons:apache",
+        //   style: {
+        //     color: "#CA1A22",
+        //   },
+        // },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -208,13 +209,13 @@ const skills = {
         "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
+        // {
+        //   skillName: "AWS",
+        //   fontAwesomeClassname: "simple-icons:amazonaws",
+        //   style: {
+        //     color: "#FF9900",
+        //   },
+        // },
         {
           skillName: "Netlify",
           fontAwesomeClassname: "simple-icons:netlify",
@@ -222,13 +223,13 @@ const skills = {
             color: "#38AFBB",
           },
         },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#6863A6",
-          },
-        },
+        // {
+        //   skillName: "Heroku",
+        //   fontAwesomeClassname: "simple-icons:heroku",
+        //   style: {
+        //     color: "#6863A6",
+        //   },
+        // },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -250,20 +251,20 @@ const skills = {
             color: "#47A248",
           },
         },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "GitHub Actions",
-          fontAwesomeClassname: "simple-icons:githubactions",
-          style: {
-            color: "#5b77ef",
-          },
-        },
+        // {
+        //   skillName: "Docker",
+        //   fontAwesomeClassname: "simple-icons:docker",
+        //   style: {
+        //     color: "#1488C6",
+        //   },
+        // },
+        // {
+        //   skillName: "GitHub Actions",
+        //   fontAwesomeClassname: "simple-icons:githubactions",
+        //   style: {
+        //     color: "#5b77ef",
+        //   },
+        // },
       ],
     },
   ],
@@ -496,7 +497,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
+    link: "https://twitter.com/devbysn",
     avatar_image_path: "blogs_image.svg",
   },
 };
